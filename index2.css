@@ -5,7 +5,7 @@
    font-family: "Segoe UI", Tahoma, Verdana, sans-serif;
   }
   body {
-    background-color:lightcyan;
+    background-color:darkorchid;
   }
   .box {
     display: flex;
@@ -17,7 +17,7 @@
     display: flex;
     align-items: center;
     flex-direction: column;
-    background-color:grey;
+    background-color:lightcyan;
     width: 690px;
     height: 559px;
     box-shadow: 1px 3px 9px white;
